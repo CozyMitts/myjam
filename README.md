@@ -1,0 +1,1 @@
+# Sample JAMstack site
